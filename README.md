@@ -4,6 +4,7 @@
 Analysing the popularity of films and TV shows on the streaming platform, Netflix. Using your knowledge of PySpark DataFrames and Spark SQL, you will produce a number of "downstream" data products to analyse trends in global streaming habits.
 
 Downloaded the dataset from this Kaggle "all_weeks_countries.csv" file.
+
 1.Create two separate DataFrames for Films and TV.
 
 2.For the Films data, drop the column containing the season names.
